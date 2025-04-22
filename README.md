@@ -1,7 +1,9 @@
 # Hello, I'm Pedro Ribeiro
 <a href="https://linkedin.com/in/pedro-ribeiro-13b60723a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/akramDP">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
-My name is Pedro Ribeiro, I am a Law student with a strong interest and dedication to the field of Cybersecurity, particularly in defensive operations (Blue Team), network infrastructure, and data protection. I am currently preparing to work as an Information Security Analyst, aiming to combine my legal background with technical skills focused on offensive and defensive security, incident response, asset monitoring, and regulatory compliance. My goal is to join a Security Operations Center (SOC) and build a solid professional path in safeguarding critical systems and information, contributing to more secure, resilient, and legally compliant technological environments.
+My name is Pedro Ribeiro, I am a Law and Cybersecurity student with a strong interest and dedication to the field of Cybersecurity, particularly in defensive operations (Blue Team), network infrastructure, and data protection. I am currently preparing to work as an Information Security Analyst, aiming to combine my legal background with technical skills focused on offensive and defensive security, incident response, asset monitoring, and regulatory compliance. My goal is to join a Security Operations Center (SOC) and build a solid professional path in safeguarding critical systems and information, contributing to more secure, resilient, and legally compliant technological environments.
 
 ## 🏁 Objective
 
