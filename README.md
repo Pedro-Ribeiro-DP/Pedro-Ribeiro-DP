@@ -3,11 +3,11 @@
 <a href="https://tryhackme.com/p/akramDP">
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
-My name is Pedro Ribeiro, I am a Law and Cybersecurity student with a strong interest and dedication to the field of Cybersecurity, particularly in defensive operations (Blue Team), network infrastructure, and data protection. I am currently preparing to work as an Information Security Analyst, aiming to combine my legal background with technical skills focused on offensive and defensive security, incident response, asset monitoring, and regulatory compliance. My goal is to join a Security Operations Center (SOC) and build a solid professional path in safeguarding critical systems and information, contributing to more secure, resilient, and legally compliant technological environments.
+My name is Pedro Ribeiro, and I am a Law and Cybersecurity student passionate about information security, with a particular focus on data protection and privacy. I am actively preparing to work as a Data Protection Analyst, seeking to integrate my legal background with technical skills in information security, incident response, and regulatory compliance—especially regarding data privacy laws such as the LGPD and GDPR. My goal is to contribute to the development of secure, transparent, and legally compliant practices for the handling of personal and sensitive data within organizations.
 
 ## 🏁 Objective
 
-My journey in Law has led me to develop a strong interest in Digital Law and cybersecurity, and I am now eager to transition into this field — specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst focused on data protection and privacy.
+To start my professional career as a Data Protection Analyst, applying both legal and technical expertise to ensure compliance with data privacy regulations and to promote responsible, secure data management practices in organizations.
 
 ## 🛠 Skills
 
