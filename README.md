@@ -3,7 +3,7 @@
 <a href="https://tryhackme.com/p/akramDP">
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 
-My name is Pedro Ribeiro, and I am a Law and Cybersecurity student passionate about information security, with a particular focus on data protection and privacy. I am actively preparing to work as a Data Protection Analyst, seeking to integrate my legal background with technical skills in information security, incident response, and regulatory compliance—especially regarding data privacy laws such as the LGPD and GDPR. My goal is to contribute to the development of secure, transparent, and legally compliant practices for the handling of personal and sensitive data within organizations.
+My name is Pedro Ribeiro, and I am a Law and Cybersecurity student passionate about information security, with a particular focus on data protection and privacy. I am actively preparing to work as a Data Protection Analyst, seeking to integrate my legal background with technical skills in information security, incident response, and regulatory compliance, especially regarding data privacy laws such as the LGPD and GDPR. My goal is to contribute to the development of secure, transparent, and legally compliant practices for the handling of personal and sensitive data within organizations.
 
 ## 🏁 Objective
 
